@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Lesson 1 — Nose Wins",
+    "know": "Nose breathing slows the spin and filters the world. Mouth is for arguments and soup.",
+    "try": "Close your mouth gently. In through the nose. Out through the nose. No force. If it jams, take a normal breath and rejoin.",
+    "everyday": [
+      "Grocery line",
+      "Loading bar that lies",
+      "When someone forwards 'quick thoughts?' at 4:59pm"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Lesson 2 — The 1:2 Ratio",
+    "know": "Longer out than in nudges the nervous system toward 'we’re not being chased.'",
+    "try": "Count in 1-2-3 … out 1-2-3-4-5-6. Smooth edges; no gasping.",
+    "everyday": [
+      "Before hitting 'send'",
+      "After reading the comment",
+      "On hold with a flute solo playing"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Lesson 3 — No Pauses, No Cliffs",
+    "know": "Holds can spike the system. We stay continuous. No cliffs at the edges of the breath.",
+    "try": "Breath rolls in, breath rolls out, no stopping at the corners.",
+    "everyday": [
+      "Red light",
+      "Walking past the snack that judges you",
+      "The moment you open your banking app"
+    ]
+  }
+]
