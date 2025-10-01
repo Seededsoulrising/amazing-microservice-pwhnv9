@@ -10,3 +10,11 @@ if ("serviceWorker" in navigator) {
     navigator.serviceWorker.register("/sw.js").catch(() => {});
   });
 }
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker
+      .register("/sw.js") // <- note: sw.js in PUBLIC, not src/
+      .then((reg) => console.log("SW registered:", reg.scope))
+      .catch((err) => console.log("SW error:", err));
+  });
+}

@@ -77,7 +77,6 @@ export default function BreathTimer({
     return () => {
       if (intervalRef.current) clearInterval(intervalRef.current);
     };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [inhale, exhale, rounds, onDone]);
 
   return (
